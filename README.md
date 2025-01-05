@@ -50,10 +50,13 @@ source markitdown_env/bin/activate
 pip install -r requirements.txt
 ```
 
-4. Install Ollama (optional - required for LLM features):
+4. Install Ollama (required for LLM features):
 - Visit [Ollama.ai](https://ollama.ai)
 - Follow installation instructions for your OS
-- Install desired models including embedding models
+- Install embedding models using
+'''bash
+ollama pull {model_name}(e.g. all-minlm , nomic-embed-text ...etc)
+'''
 
 ## 💫 Usage
 
