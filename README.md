@@ -109,6 +109,8 @@ This project is licensed under CC BY-NC-SA 4.0:
 Connect with me:
 - 📧 Email: mo_ashour1@outlook.com
 - 💼 LinkedIn: [Mohamed Ashour](https://www.linkedin.com/in/mohamed-ashour-0727/)
+- 🌐 Website: [APC Mastery Path](https://www.apcmasterypath.co.uk)
+- 📽️Youtube:[APC Mastery Path](https://youtube.com/@APCMasteryPath)
 
 ## 🤝 Contributing
 
