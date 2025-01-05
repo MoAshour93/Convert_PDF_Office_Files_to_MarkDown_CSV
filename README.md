@@ -53,12 +53,14 @@ pip install -r requirements.txt
 4. Install Ollama (required for LLM features):
 - Visit [Ollama.ai](https://ollama.ai)
 - Follow installation instructions for your OS
-- Install embedding models using
-
-
-'''bash
-ollama pull {model_name}(e.g. all-minlm , nomic-embed-text ...etc)
-'''
+- Install embedding models (encoder only models) using
+```bash
+ollama pull {model_name} #-->(e.g. all-minilm, nomic-embed-text ...etc)
+```
+- Install other large language models (encoder-decoder models) using
+```bash
+ollama pull {model_name} #-->(e.g. llama3.3,qwq ...etc)
+```
 
 ## 💫 Usage
 
