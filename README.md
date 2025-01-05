@@ -24,7 +24,7 @@
 
 ## 🛠️ Prerequisites
 
-- Python 3.8+
+- Python 3.10+
 - [Ollama](https://ollama.ai) (for LLM and embedding features)
 - Virtual environment capability
 
