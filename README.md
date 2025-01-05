@@ -32,7 +32,7 @@
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/markitdown-converter-app.git
+git clone https://github.com/MoAshour93/Convert_PDF_Office_Files_to_MarkDown_CSV.git
 cd markitdown-converter-app
 ```
 
