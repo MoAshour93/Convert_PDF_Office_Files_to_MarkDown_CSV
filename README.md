@@ -54,6 +54,8 @@ pip install -r requirements.txt
 - Visit [Ollama.ai](https://ollama.ai)
 - Follow installation instructions for your OS
 - Install embedding models using
+
+
 '''bash
 ollama pull {model_name}(e.g. all-minlm , nomic-embed-text ...etc)
 '''
